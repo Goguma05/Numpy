@@ -3,7 +3,7 @@
 Numpy의 기초와 사용방법을 공부하기 위한 프로젝트입니다.
 
 **numpy.array(shape, dtype = int)** : 예시) numpy.array([1,2,3], dtype = float)
-\n매개변수
+매개변수
 - **shape** : 생성할 배열의 크기나 구조를 지정합니다.
 - **dtype** = 타입 : 원소들의 타입을 정할 수 있습니다.
 속성
