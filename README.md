@@ -2,7 +2,7 @@
 
 Numpy의 기초와 사용방법을 공부하기 위한 프로젝트입니다.
 
-함수
+__함수__
 
 **numpy.array(object, dtype)** : 예시) numpy.array([1,2,3], dtype = float)
 
