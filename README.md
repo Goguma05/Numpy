@@ -4,8 +4,7 @@ Numpy의 기초와 사용방법을 공부하기 위한 프로젝트입니다.
 
 __함수__
 
-**numpy.array(object, dtype)** : 예시) numpy.array([1,2,3], dtype = float)
-
+**numpy.array(object, dtype)** : 예시) numpy.array([1,2,3], dtype = float)  
 매개변수
 - **object** : NumPy 배열로 변환할 데이터(파이썬 리스트, 튜플 등)입니다.
 - **dtype** : 원소들의 타입을 정할 수 있습니다.
@@ -46,7 +45,7 @@ __함수__
 특징
 - 주어진 크기만큼 모든 원소의 값을 주어진 값으로 채워 생성하고 반환합니다.
 
-메소드
+__메소드__
 
 **ndarray.astype(dtype)** : 예시) arr.astype(float32)
 
