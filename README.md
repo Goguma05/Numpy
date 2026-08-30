@@ -6,7 +6,7 @@ Numpy의 기초와 사용방법을 공부하기 위한 프로젝트입니다.
 
 ### 목차
 
-* [배열 생성](#배열 생성)
+* [배열 생성](#배열-생성)
 * [인덱싱, 슬라이싱, 불리언/펜시 인덱싱](#인덱싱-슬라이싱-불리언펜시-인덱싱)
 * [배열 연산 및 조작 (Arithmetic & Operations)](#배열-연산-및-조작-arithmetic--operations)
 * [형태 및 구조 변환 (Shape Manipulation)](#형태-및-구조-변환-shape-manipulation)
